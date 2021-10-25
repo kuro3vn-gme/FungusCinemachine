@@ -1,0 +1,17 @@
+{
+    "name": "fungus-cinemachine",
+    "rootNamespace": "",
+    "references": [
+        "GUID:007db7f7a4c8f944990d71603a110f82",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

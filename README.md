@@ -1,0 +1,2 @@
+# FungusCinemachine
+FungusからCinemachineを操作するコマンド
